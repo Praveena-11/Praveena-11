@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Praveena
+## A Web Developer
 
-Tech enthusiast | Lifelong learner | Passionate about building, learning, and growing in the world of software development
+Tech enthusiast | Lifelong learner | Passionate about building, learning, and growing in the world of Web development
 
 ### I code in
 
