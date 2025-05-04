@@ -1,7 +1,9 @@
 ## Hi there 👋 It's me Praveena
 ## A Web Developer
 
-Tech enthusiast | Lifelong learner | Passionate about building, learning, and growing in the world of Web development
+💻 Computer Science student with a passion for learning, building, and growing through real-time project experiences. 🚀 Actively enhancing my skills in Java, React, JavaScript, Spring Boot, and Python through hands-on practice. 🧠 Continuously exploring new technologies and improving my problem-solving mindset. 🎯 Focused on turning ideas into impactful solutions with creativity and discipline.
+
+
 
 ### I code in
 
